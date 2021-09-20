@@ -3,7 +3,7 @@
  !['Header'](https://github.com/SergeyGetman/sergeygetman/blob/main/assets/Screenshot_13.png)
  (https://t.me/sergeygetman)
 
-## I am Front End developer on JavaScript React  
+## I am FrontEnd developer on JavaScript React  
 
 ## Languages and tools
 !['HTML'](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML)
@@ -22,8 +22,8 @@
 [!['Linkedin'](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin)
 (https://www.linkedin.com/in/sergey-kushnerov-a692351a1/)]
 
-[!['Twitter'](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter)
-(https://twitter.com/TraineeSeniors)]
+[!['Twitter'](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter(https://twitter.com/TraineeSeniors))
+]
 
 
 
