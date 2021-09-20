@@ -22,8 +22,8 @@
 [!['Linkedin'](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin)
 (https://www.linkedin.com/in/sergey-kushnerov-a692351a1/)]
 
-[!['Twitter'](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter(https://twitter.com/TraineeSeniors))
-]
+!['Twitter'](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter(https://twitter.com/TraineeSeniors))
+
 
 
 
