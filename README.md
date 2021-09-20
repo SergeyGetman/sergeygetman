@@ -13,16 +13,16 @@
 
 
 ## Folow Me
-[!['Youtube'](https://img.shields.io/badge/-Youtube-090909?style=for-the-badge&logo=Youtube)
-  (https://www.youtube.com/channel/UClKDHztvdiaV0qHR-ae_4pQ)]
+!['Youtube'](https://img.shields.io/badge/-Youtube-090909?style=for-the-badge&logo=Youtube)
 
-[!['Telegram'](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)
- (https://t.me/sergeygetman)]
 
-[!['Linkedin'](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin)
-(https://www.linkedin.com/in/sergey-kushnerov-a692351a1/)]
+!['Telegram'](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)
+ 
 
-!['Twitter'](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter?https://twitter.com/TraineeSeniors)
+!['Linkedin'](https://img.shields.io/badge/-linkedin-090909?style=for-the-badge&logo=linkedin)
+
+
+!['Twitter'](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter)
 
 
 
