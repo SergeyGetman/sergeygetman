@@ -19,5 +19,6 @@
 !['Twitter'](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergeygetman)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergeygetman&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
