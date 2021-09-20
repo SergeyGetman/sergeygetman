@@ -1,4 +1,4 @@
- Hi there 👋 I am Pro100 Trainee
+ HI THERE 👋 I AM "Pro100 Trainee"
 
  !['Header'](https://github.com/SergeyGetman/sergeygetman/blob/main/assets/Screenshot_13.png)
  (https://t.me/sergeygetman)
@@ -12,5 +12,7 @@
 !['React'](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
 
 
-Folow Me
+## Folow Me
+!['Youtube'](https://img.shields.io/badge/-Youtube-090909?style=for-the-badge&logo=Youtube)
+(https://www.youtube.com/channel/UClKDHztvdiaV0qHR-ae_4pQ)
 
