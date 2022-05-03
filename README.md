@@ -1,4 +1,4 @@
- HI THERE 👋 I AM "Pro100 Trainee"
+ HI THERE 👋 I AM "Pro100 Developer"
 
  !['Header'](https://github.com/SergeyGetman/sergeygetman/blob/main/assets/Screenshot_13.png)
  (https://t.me/sergeygetman)
