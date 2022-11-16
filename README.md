@@ -1,6 +1,6 @@
  HI THERE 👋 I AM "Pro100 Developer"
 
- !['Header'](https://github.com/SergeyGetman/sergeygetman/blob/main/assets/Screenshot_13.png)
+ !['Header']([https://github.com/SergeyGetman/sergeygetman/blob/main/assets/Screenshot_13.png](https://media.proglib.io/wp-uploads/2018/06/jhkhk.jpg))
  (https://t.me/sergeygetman)
 
 ## I am FrontEnd developer on JavaScript React  
