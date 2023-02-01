@@ -6,7 +6,7 @@
 ## I am FrontEnd developer on JavaScript React  
 
 ## Languages and tools
-!['HTML'](https://icon-library.com/images/html-5-icon/html-5-icon-5.jpg)
+!['HTML'](https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png)
 !['CSS'](https://cdn.iconscout.com/icon/free/png-256/css3-8-1175200.png)
 !['JavaScript'](https://a.thumbs.redditmedia.com/zDOFJTXd6fmlD58VDGypiV94Leflz11woxmgbGY6p_4.png)
 !['React'](https://styles.redditmedia.com/t5_2zldd/styles/communityIcon_fbblpo38vy941.png)
