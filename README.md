@@ -6,9 +6,9 @@
 ## I am FrontEnd developer on JavaScript React  
 
 ## Languages and tools
-!['HTML'](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML)
-!['CSS'](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS)
-!['JavaScript'](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
+!['HTML'](https://icon-library.com/images/html-5-icon/html-5-icon-5.jpg)
+!['CSS'](https://t4.ftcdn.net/jpg/05/23/36/75/360_F_523367584_sXgdf8pVmPbB5pfpwC7hKuKZa6j8amPQ.jpg)
+!['JavaScript'](https://a.thumbs.redditmedia.com/zDOFJTXd6fmlD58VDGypiV94Leflz11woxmgbGY6p_4.png)
 !['React'](https://styles.redditmedia.com/t5_2zldd/styles/communityIcon_fbblpo38vy941.png)
 !['Redux'](https://cdn.iconscout.com/icon/free/png-256/redux-3521674-2945118.png)
 !['NextJS'](https://cdn-1.webcatalog.io/catalog/next-js-docs/next-js-docs-icon-filled-256.png?v=1669863995747)
