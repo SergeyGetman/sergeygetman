@@ -13,6 +13,7 @@
 !['Redux'](https://cdn.iconscout.com/icon/free/png-256/redux-3521674-2945118.png)
 !['NextJS'](https://static-00.iconduck.com/assets.00/next-js-icon-256x256-6j7ddke7.png)
 !['TypeScript'](https://pbs.twimg.com/profile_images/1602794923152969728/MRPc9O2B_400x400.png)
+!['Linux'](https://images.vexels.com/media/users/3/140692/isolated/lists/72d1f12edf758d24f5b6db73bac4f297-linux-logo.png)
 
 
 
