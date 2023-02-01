@@ -9,10 +9,10 @@
 !['HTML'](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML)
 !['CSS'](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS)
 !['JavaScript'](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
-!['React'](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
+!['React'](https://styles.redditmedia.com/t5_2zldd/styles/communityIcon_fbblpo38vy941.png)
 !['Redux'](https://cdn.iconscout.com/icon/free/png-256/redux-3521674-2945118.png)
-!['NextJS']
-!['TypeScript']
+!['NextJS'](https://cdn-1.webcatalog.io/catalog/next-js-docs/next-js-docs-icon-filled-256.png?v=1669863995747)
+!['TypeScript'](https://pbs.twimg.com/profile_images/1602794923152969728/MRPc9O2B_400x400.png)
 
 
 ## Folow Me
