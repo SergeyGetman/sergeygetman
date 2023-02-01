@@ -1,6 +1,6 @@
  HI THERE 👋 I AM "Pro100 Developer"
 
- !['Header'](https://cdn.discordapp.com/attachments/1008571111530836068/1070290516299747348/pro100Dev_a_person_is_looking_for_new_opportunities_and_learns__1cb2f574-c368-45e7-aaeb-b54f6eaa9f97.png)
+ !['Header'](https://static.dw.com/image/62442069_605.jpg)
  (https://t.me/sergeygetman)
 
 ## I am FrontEnd developer on JavaScript React  
