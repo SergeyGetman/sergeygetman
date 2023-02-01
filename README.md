@@ -7,12 +7,13 @@
 
 ## Languages and tools
 !['HTML'](https://icon-library.com/images/html-5-icon/html-5-icon-5.jpg)
-!['CSS'](https://t4.ftcdn.net/jpg/05/23/36/75/360_F_523367584_sXgdf8pVmPbB5pfpwC7hKuKZa6j8amPQ.jpg)
+!['CSS'](https://cdn.iconscout.com/icon/free/png-256/css3-8-1175200.png)
 !['JavaScript'](https://a.thumbs.redditmedia.com/zDOFJTXd6fmlD58VDGypiV94Leflz11woxmgbGY6p_4.png)
 !['React'](https://styles.redditmedia.com/t5_2zldd/styles/communityIcon_fbblpo38vy941.png)
 !['Redux'](https://cdn.iconscout.com/icon/free/png-256/redux-3521674-2945118.png)
-!['NextJS'](https://cdn-1.webcatalog.io/catalog/next-js-docs/next-js-docs-icon-filled-256.png?v=1669863995747)
+!['NextJS'](https://static-00.iconduck.com/assets.00/next-js-icon-256x256-6j7ddke7.png)
 !['TypeScript'](https://pbs.twimg.com/profile_images/1602794923152969728/MRPc9O2B_400x400.png)
+
 
 
 ## Folow Me
