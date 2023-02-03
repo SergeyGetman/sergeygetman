@@ -1,7 +1,6 @@
  HI THERE 👋 I AM "Pro100 Developer"
 
- !['Header'](https://static.dw.com/image/62442069_605.jpg)
- (https://t.me/sergeygetman)
+ !['Header'](https://mott.pe/noticias/wp-content/uploads/2019/09/Lenguaje-de-programaci%C3%B3n-de-JavaScript-para-desarrollo-web-front-end-1.png)
 
 ## I am FrontEnd developer on JavaScript React  
 
