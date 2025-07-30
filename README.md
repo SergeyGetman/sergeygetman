@@ -1,8 +1,6 @@
  HI THERE 👋 I AM "Pro100 Developer"
 
- !['Header']('https://i.ibb.co/m57mmSc6/Copilot-20250610-054727.jpg')
-
-## I am FrontEnd developer on JavaScript React  
+![Header](https://i.ibb.co/m57mmSc6/Copilot-20250610-054727.jpg)
 
 ## Languages and tools
 !['HTML'](https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png)
